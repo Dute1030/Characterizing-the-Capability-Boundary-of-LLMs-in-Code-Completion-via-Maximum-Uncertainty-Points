@@ -8,7 +8,7 @@ This repository contains the code and analysis tools for the MUP project ("Chara
 - `src/rq1/` — RQ1: uncertainty split detection, model comparison, and visualization (includes `run_experiment.py`, `quickstart.sh`, etc.)
 - `src/rq2/` — RQ2: mapping split points to AST node types and aggregated statistics (`token_category_analysis.py`, `run_rq2_pipeline.py`)
 - `src/rq3/` — RQ3: logit lens layer-wise trajectories and uncertainty vs. baseline analysis (`logit_lens_rq3.py`, `prepare_*` scripts)
-- `data/`, `results/` — datasets and experiment outputs
+- `data/`, `results/` — datasets（Need to download it yourself first：https://www.sri.inf.ethz.ch/py150） and experiment outputs
 
 ---
 
